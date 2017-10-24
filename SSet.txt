@@ -1,0 +1,15 @@
+age,income,student,credit,buyComputer
+<=30,high,F,middle,F
+<=30,high,F,high,F
+31-40,high,F,middle,T
+>40,middle,F,middle,T
+>40,low,T,middle,T
+>40,low,T,high,F
+31-40,low,T,high,T
+<=30,middle,F,middle,F
+<=30,low,T,middle,T
+>40,middle,T,middle,T
+<=30,middle,T,high,T
+31-40,middle,F,high,T
+31-40,high,T,middle,T
+>40,middle,F,high,F
